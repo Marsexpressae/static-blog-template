@@ -4,7 +4,7 @@ title: Free Pickup by Pakistan Cargo Abu Dhabi
 publishedDate: 2021-05-04T20:00:00.000Z
 description: We handle all the cargo to pakistan with care.
 featured: true
-img: ../../static/images/040-delivery-man-19.png
+img: ../../static/images/pexels-photo-316137.jpeg
 imgAlt: "Free Pickup from Pakistan Cargo "
 tags:
   - pakistan
